@@ -1,0 +1,89 @@
+# Configuración de archivos para Git
+
+# Archivos de texto que deben usar LF (Linux/Unix)
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.toml text eol=lf
+*.cfg text eol=lf
+*.ini text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Jupyter notebooks
+*.ipynb text eol=lf
+
+# Archivos binarios que no deben ser procesados
+*.zip binary
+*.mat binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.bmp binary
+*.tiff binary
+*.tif binary
+*.h5 binary
+*.hdf5 binary
+*.pkl binary
+*.pickle binary
+*.joblib binary
+*.pth binary
+*.pt binary
+*.onnx binary
+*.docx binary
+*.pdf binary
+
+# Archivos de configuración
+.gitignore text eol=lf
+.gitattributes text eol=lf
+.gitkeep text eol=lf
+
+# Archivos de documentación
+*.rst text eol=lf
+*.tex text eol=lf
+
+# Archivos de código fuente
+*.c text eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+*.java text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.sass text eol=lf
+*.xml text eol=lf
+*.sql text eol=lf
+*.r text eol=lf
+*.R text eol=lf
+*.m text eol=lf
+*.f text eol=lf
+*.f90 text eol=lf
+*.go text eol=lf
+*.rs text eol=lf
+*.swift text eol=lf
+*.kt text eol=lf
+*.scala text eol=lf
+*.php text eol=lf
+*.rb text eol=lf
+*.pl text eol=lf
+*.sh text eol=lf
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+# Archivos de datos
+*.csv text eol=lf
+*.tsv text eol=lf
+*.dat text eol=lf
+*.log text eol=lf
+
+# Archivos de configuración de IDEs
+.vscode/settings.json text eol=lf
+.idea/workspace.xml text eol=lf 

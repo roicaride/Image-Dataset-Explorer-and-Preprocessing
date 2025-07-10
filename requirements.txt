@@ -1,0 +1,26 @@
+# Core dependencies
+tensorflow>=2.10.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+Pillow>=9.0.0
+scipy>=1.9.0
+
+# Jupyter and notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+
+# Data processing
+pandas>=1.4.0
+opencv-python>=4.6.0
+
+# Visualization
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Utilities
+tqdm>=4.64.0
+pathlib2>=2.3.0
+
+# Optional: for better performance
+scikit-learn>=1.1.0 
