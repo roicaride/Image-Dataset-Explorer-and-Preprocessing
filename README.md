@@ -86,30 +86,3 @@ El proyecto procesa un dataset de imágenes con la siguiente estructura:
 
 Cada imagen tiene su correspondiente máscara de bordes (256x256x1) extraída de archivos .mat.
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👨‍💻 Autor
-
-**Tu Nombre** - [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-
-## 🙏 Agradecimientos
-
-- Dataset proporcionado para el assignment
-- Comunidad de TensorFlow y Python
-- Contribuidores del proyecto
-
----
-
-⭐ Si este proyecto te fue útil, ¡dale una estrella al repositorio! 
